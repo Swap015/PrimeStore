@@ -1,0 +1,1112 @@
+[
+    {
+        "id": 1,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Minimalist Cotton Tshirt",
+        "description": "Casual cotton T-shirt with a minimalist print, perfect for everyday wear.",
+        "price": 230,
+        "images": [
+            "/Mens/TSHIRT/t1.jpeg",
+            "/Mens/TSHIRT/t1-b.jpeg"
+        ],
+        "stock": 300,
+        "rating": 3.5,
+        "reviews": [
+            {
+                "review": "Fits perfectly and feels super soft",
+                "author": "Unknown"
+            },
+            {
+                "review": "Highly recommend!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching came loose after one wash the size chart is misleading. It's way too tight.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "20%"
+    },
+    {
+        "id": 2,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Modern Polo tShirt",
+        "description": "Classic polo T-shirt with a modern collar design for a smart-casual look.",
+        "price": 340,
+        "images": [
+            "/Mens/TSHIRT/t2.jpeg",
+            "/Mens/TSHIRT/t2-b.jpeg"
+        ],
+        "stock": 566,
+        "rating": 2,
+        "reviews": [
+            {
+                "review": "The fabric is very comfortable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Worth the price!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The size chart is misleading. Its way too tight.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for casual wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not ideal for hot weather.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "10%"
+    },
+    {
+        "id": 3,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Graphic Weekend Tshirt",
+        "description": "Trendy graphic T-shirt with a bold design, ideal for weekend outings.",
+        "price": 540,
+        "images": [
+            "/Mens/TSHIRT/t3.jpeg",
+            "/Mens/TSHIRT/t3-b.jpeg"
+        ],
+        "stock": 232,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Great fit and quality!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Vibrant colors, looks stylish.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Shrank after the first wash.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The print is bold and beautiful.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Too expensive for the quality provided.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "30%"
+    },
+    {
+        "id": 4,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Vibrant Summer Tshirt",
+        "description": "Lightweight summer T-shirt with vibrant colors and a comfortable fit.",
+        "price": 340,
+        "images": [
+            "/Mens/TSHIRT/t4.jpeg",
+            "/Mens/TSHIRT/t4-b.jpeg"
+        ],
+        "stock": 56,
+        "rating": 1,
+        "reviews": [
+            {
+                "review": "Affordable and durable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The material is lightweight and perfect for summer.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The print started fading within days.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fantastic product for the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels a bit scratchy after washing.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "70%"
+    },
+    {
+        "id": 5,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Athletic Fit Sports Tshirt",
+        "description": "Relaxed fit sports T-shirt designed for active lifestyles.",
+        "price": 320,
+        "images": [
+            "/Mens/TSHIRT/t5.jpeg",
+            "/Mens/TSHIRT/t5-b.jpeg"
+        ],
+        "stock": 233,
+        "rating": 3,
+        "reviews": [
+            {
+                "review": "Perfect for workouts.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Quick delivery and amazing product.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not as advertised. The material feels cheap.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Love the fit and stretch of the fabric.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Looks great but doesn't last long.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Ideal for layering in colder weather.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 6,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Premium Polo Classic",
+        "description": "Premium polo T-shirt with soft fabric and a timeless silhouette.",
+        "price": 630,
+        "images": [
+            "/Mens/TSHIRT/t6.jpeg",
+            "/Mens/TSHIRT/t6-b.jpeg"
+        ],
+        "stock": 100,
+        "rating": 2.3,
+        "reviews": [
+            {
+                "review": "Soft fabric, feels great on the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fits just right!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Loose stitching on the seams.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is too wide and looks odd.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for gym or outdoor activities.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 7,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Sleek V-Neck Tshirt",
+        "description": "Stylish V-neck T-shirt with a sleek and modern aesthetic.",
+        "price": 270,
+        "images": [
+            "/Mens/TSHIRT/t7.jpeg",
+            "/Mens/TSHIRT/t7-b.jpeg"
+        ],
+        "stock": 500,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Good quality for the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Loved the design and comfort.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Colors faded quickly even with cold washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for lounging at home.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric feels thin but durable.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 8,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Breathable Crew Neck",
+        "description": "Comfortable crew neck T-shirt with a soft and breathable fabric.",
+        "price": 345,
+        "images": [
+            "/Mens/TSHIRT/t8.jpeg",
+            "/Mens/TSHIRT/t8-b.jpeg"
+        ],
+        "stock": 232,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Perfect casual wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Will definitely order again!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is oddly shaped.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels lightweight and airy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Material doesn't irritate the skin.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 9,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Urban Graphic Tshirt",
+        "description": "Urban style T-shirt featuring a unique graphic print for a streetwear vibe.",
+        "price": 540,
+        "images": [
+            "/Mens/TSHIRT/t9.jpeg",
+            "/Mens/TSHIRT/t9-b.jpeg"
+        ],
+        "stock": 56,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Trendy and fits well.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Received lots of compliments!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Disappointed with the rough fabric.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Stylish and looks premium.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching could be better.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 10,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Essential Round Neck Tshirt",
+        "description": "Basic round-neck T-shirt, an essential addition to your wardrobe.",
+        "price": 300,
+        "images": [
+            "/Mens/TSHIRT/t10.jpeg",
+            "/Mens/TSHIRT/t10-b.jpeg"
+        ],
+        "stock": 233,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Looks premium for the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Holds up well after multiple washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Doesn't match the images shown online.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Good fit and great for layering.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 11,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Quick-Dry Sports Tshirt",
+        "description": "Sporty T-shirt with quick-dry technology for gym enthusiasts.",
+        "price": 200,
+        "images": [
+            "/Mens/TSHIRT/t11.jpeg",
+            "/Mens/TSHIRT/t11-b.jpeg"
+        ],
+        "stock": 20,
+        "rating": 1,
+        "reviews": [
+            {
+                "review": "Soft fabric, feels great on the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fits just right!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Loose stitching on the seams.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is too wide and looks odd.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for gym or outdoor activities.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 12,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Elegant Versatile Tshirt",
+        "description": "Elegant T-shirt with a clean and simple design for versatile styling.",
+        "price": 440,
+        "images": [
+            "/Mens/TSHIRT/t12.jpeg",
+            "/Mens/TSHIRT/t12-b.jpeg"
+        ],
+        "stock": 500,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Good quality for the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Loved the design and comfort.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Colors faded quickly even with cold washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for lounging at home.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric feels thin but durable.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 13,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Contrasting Sleeve Tshirt",
+        "description": "Two-tone T-shirt with contrasting sleeves, perfect for casual Fridays.",
+        "price": 500,
+        "images": [
+            "/Mens/TSHIRT/t13.jpeg",
+            "/Mens/TSHIRT/t13-b.jpeg"
+        ],
+        "stock": 30,
+        "rating": 3,
+        "reviews": [
+            {
+                "review": "Perfect casual wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Will definitely order again!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is oddly shaped.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels lightweight and airy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Material doesn't irritate the skin.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 14,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Bold Graphic Tshirt",
+        "description": "Eye-catching graphic T-shirt that stands out with its vibrant print.",
+        "price": 400,
+        "images": [
+            "/Mens/TSHIRT/t14.jpeg",
+            "/Mens/TSHIRT/t14-b.jpeg"
+        ],
+        "stock": 232,
+        "rating": 1,
+        "reviews": [
+            {
+                "review": "The fabric feels very smooth and luxurious.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Affordable yet stylish, a great deal.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is slightly loose but still comfortable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Colors are vibrant and true to the pictures.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for both casual and semi-formal events.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 15,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Relaxed Home Tshirt",
+        "description": "Relaxed-fit T-shirt with a comfortable cut for lounging at home.",
+        "price": 440,
+        "images": [
+            "/Mens/TSHIRT/t15.jpeg",
+            "/Mens/TSHIRT/t15-b.jpeg"
+        ],
+        "stock": 45,
+        "rating": 1.5,
+        "reviews": [
+            {
+                "review": "Fabric is super soft and breathable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Stitching quality could be better.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Good value for the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Print is bold and doesn't crack.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Shaped well for a modern fit.",
+                "author": "Unknown"
+            },
+            {
+                "review": "It shrank slightly after washing.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 16,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Modern Striped Tshirt",
+        "description": "Classic striped T-shirt with a modern twist for effortless style.",
+        "price": 555,
+        "images": [
+            "/Mens/TSHIRT/t16.jpeg",
+            "/Mens/TSHIRT/t16-b.jpeg"
+        ],
+        "stock": 100,
+        "rating": 2,
+        "reviews": [
+            {
+                "review": "The fabric feels very smooth and luxurious.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Affordable yet stylish, a great deal.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is slightly loose but still comfortable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Colors are vibrant and true to the pictures.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for both casual and semi-formal events.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 17,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Laid-Back Oversized Tshirt",
+        "description": "Oversized T-shirt with a laid-back streetwear feel.",
+        "price": 320,
+        "images": [
+            "/Mens/TSHIRT/t17.jpeg",
+            "/Mens/TSHIRT/t17-b.jpeg"
+        ],
+        "stock": 100,
+        "rating": 2,
+        "reviews": [
+            {
+                "review": "Feels comfortable even after hours of wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Looks much better in person than online.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric is breathable but lacks stretch.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great stitching, holds up after multiple washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Could use better packaging, arrived wrinkled.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 18,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Everyday Comfort Tshirt",
+        "description": "Everyday T-shirt with a soft fabric and durable stitching.",
+        "price": 210,
+        "images": [
+            "/Mens/TSHIRT/t18.jpeg",
+            "/Mens/TSHIRT/t18-b.jpeg"
+        ],
+        "stock": 300,
+        "rating": 2,
+        "reviews":[
+            {
+                "review": "Very comfortable for long hours of wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching is well done.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric feels rough after a few washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great fit and looks amazing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Would recommend for gym and sports activities.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not very breathable on hot days.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 19,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Casual Slim Tshirt",
+        "description": "Casual slim-fit T-shirt that pairs well with jeans or shorts.",
+        "price": 120,
+        "images": [
+            "/Mens/TSHIRT/t19.jpeg",
+            "/Mens/TSHIRT/t19-b.jpeg"
+        ],
+        "stock": 35,
+        "rating": 2,
+        "reviews":[
+            {
+                "review": "Perfect for a relaxed weekend vibe.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Amazing design but could be softer.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching is robust and well-done.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A bit tighter than expected, size up.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Simple yet elegant, exactly what I needed.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 20,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Tailored Semi-Casual Tshirt",
+        "description": "Semi-casual T-shirt with a tailored fit and understated elegance.",
+        "price": 150,
+        "images": [
+            "/Mens/TSHIRT/t20.jpeg",
+            "/Mens/TSHIRT/t20-b.jpeg"
+        ],
+        "stock": 300,
+        "rating": 1,
+        "reviews":[
+            {
+                "review": "Feels comfortable even after hours of wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Looks much better in person than online.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric is breathable but lacks stretch.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great stitching, holds up after multiple washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Could use better packaging, arrived wrinkled.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 21,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Bold Logo Tshirt",
+        "description": "Trendy T-shirt with a bold logo design for a contemporary look.",
+        "price": 530,
+        "images": [
+            "/Mens/TSHIRT/t21.jpeg",
+            "/Mens/TSHIRT/t21-b.jpeg"
+        ],
+        "stock": 233,
+        "rating": 1,
+        "reviews": [
+            {
+                "review": "Perfect addition to my wardrobe for daily use.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The quality matches the price, very fair.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I wish the sleeves were a bit longer.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The material feels lightweight and durable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "An overall good choice for summer outfits.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "70%"
+    },
+    {
+        "id": 22,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Simple Design Tshirt",
+        "description": "Minimalist design T-shirt crafted for a sleek and simple appearance.",
+        "price": 180,
+        "images": [
+            "/Mens/TSHIRT/t22.jpeg",
+            "/Mens/TSHIRT/t22-b.jpeg"
+        ],
+        "stock": 455,
+        "rating": 4,
+        "reviews": [
+            {
+                "review": "Love the minimal design, less is more.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline fits perfectly, very flattering.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The color faded slightly after washing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not as thick as I hoped, but still decent.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great to pair with jeans or shorts.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 23,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Stretch Comfort Tshirt",
+        "description": "Soft-touch T-shirt with a stretchable fabric for extra comfort.",
+        "price": 800,
+        "images": [
+            "/Mens/TSHIRT/t23.jpeg",
+            "/Mens/TSHIRT/t23-b.jpeg"
+        ],
+        "stock": 300,
+        "rating": 4.5,
+        "reviews":[
+            {
+                "review": "The pattern is trendy and unique.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Soft material but feels thin in some areas.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Doesn't shrink after washing, great quality.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit feels tailored, very snug.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Received compliments on the bold design.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "70%"
+    },
+    {
+        "id": 24,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Dual-Use Athleisure Tshirt",
+        "description": "Athleisure T-shirt perfect for both workouts and casual outings.",
+        "price": 700,
+        "images": [
+            "/Mens/TSHIRT/t24.jpeg",
+            "/Mens/TSHIRT/t24-b.jpeg"
+        ],
+        "stock": 120,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Perfect for layering with jackets.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The design stands out but isn't too flashy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A bit pricey for the quality provided.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Comfortable for long hours, great for travel.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric is soft but prone to wrinkles.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 25,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Fashion-Forward Graphic Tshirt",
+        "description": "Fashion-forward T-shirt with a distinctive graphic design.",
+        "price": 890,
+        "images": [
+            "/Mens/TSHIRT/t25.jpeg",
+            "/Mens/TSHIRT/t25-b.jpeg"
+        ],
+        "stock": 233,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "A good balance of comfort and style.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Would recommend for casual Fridays at work.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The material isn't as breathable as expected.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Stylish but not suitable for humid weather.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching adds a premium touch.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 26,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Lightweight Everyday Tshirt",
+        "description": "Comfortable and lightweight T-shirt designed for all-day wear.",
+        "price": 680,
+        "images": [
+            "/Mens/TSHIRT/t26.jpeg",
+            "/Mens/TSHIRT/t26-b.jpeg"
+        ],
+        "stock": 300,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Lightweight and perfect for layering.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Soft texture makes it comfortable for all-day wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The sleeves are slightly loose but manageable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Durable and holds shape well after washing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for casual evenings out.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    },
+    {
+        "id": 27,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Edgy Graphic Tshirt",
+        "description": "Bold graphic T-shirt with an edgy design for a youthful vibe.",
+        "price": 540,
+        "images": [
+            "/Mens/TSHIRT/t27.jpeg",
+            "/Mens/TSHIRT/t27-b.jpeg"
+        ],
+        "stock": 78,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "The fit is great for athletic builds.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The print is subtle and sophisticated.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Doesn't feel rough even after multiple washes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Affordable and looks high-end.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Wouldn't recommend for winter, too thin.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "70%"
+    },
+    {
+        "id": 28,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Relaxed Layering Tshirt",
+        "description": "Simple T-shirt with a relaxed fit, ideal for layering.",
+        "price": 370,
+        "images": [
+            "/Mens/TSHIRT/t28.jpeg",
+            "/Mens/TSHIRT/t28-b.jpeg"
+        ],
+        "stock": 34,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "The fabric feels light yet durable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Stylish and easy to pair with multiple outfits.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Slightly snug around the shoulders but manageable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for layering during colder months.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels premium for the price paid.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "80%"
+    },
+    {
+        "id": 29,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Stylish Cotton Tshirt",
+        "description": "Classic cotton T-shirt with a stylish print for casual occasions.",
+        "price": 560,
+        "images": [
+            "/Mens/TSHIRT/t29.jpeg",
+            "/Mens/TSHIRT/t29-b.jpeg"
+        ],
+        "stock": 800,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Soft material, perfect for lounging at home.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Loved the minimalist design, not too flashy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The color options are amazing and true to pictures.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Doesn’t feel itchy even after long hours.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Would have preferred a slightly longer fit.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "60%"
+    },
+    {
+        "id": 30,
+        "category": "mens clothing",
+        "subcategory": "tshirts",
+        "name": "Smart-Casual Tailored Tshirt",
+        "description": "Smart-casual T-shirt with a tailored look, suitable for semi-formal settings.",
+        "price": 600,
+        "images": [
+            "/Mens/TSHIRT/t30.jpeg",
+            "/Mens/TSHIRT/t30-b.jpeg"
+        ],
+        "stock": 12,
+        "rating": 4.5,
+        "reviews":[
+            {
+                "review": "The design is modern and trendy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Soft fabric that feels great on the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A bit tighter than expected but still wearable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The print quality is fantastic and doesn’t fade.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A good addition to my casual wear collection.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "50%"
+    }
+]

@@ -1,0 +1,1072 @@
+[
+    {
+        "id": 1,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Black crop tshirt for women",
+        "description": "Discover the charm of this tshirts! Perfect for casual outings or special occasions, it ensures comfort and style in one package.",
+        "price": 331.2,
+        "images": [
+            "/Womens/TSHIRT/t1.jpeg",
+            "/Womens/TSHIRT/t1-a.jpeg"
+        ],
+        "stock": 150,
+        "rating": 4.0,
+        "reviews": [
+            {
+                "review": "The fabric is breathable and perfect for summer!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Oversized fit is comfortable, but I expected better stitching.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Color matches the picture exactly. Love it!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for casual wear, goes well with jeans.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A bit pricey but worth it for the quality.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "25%"
+    },
+    {
+        "id": 2,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Oversized orange tshirt for women",
+        "description": "Stay effortlessly  with this oversized t-shirt, perfect for layering or a standalone ",
+        "price": 489.6,
+        "images": [
+            "/Womens/TSHIRT/t2.jpeg",
+            "/Womens/TSHIRT/t2-a.jpeg"
+        ],
+        "stock": 283,
+        "rating": 2.5,
+        "reviews": [
+            
+            {
+                "review": "Stylish and elegant, though slightly overpriced.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Good quality but the color faded a bit after washing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit was perfect, and I got lots of compliments!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not what I expected, but still worth keeping for its uniqueness.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "15%"
+    },
+    {
+        "id": 3,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Sky blue collar tshirt for women",
+        "description": "Crafted from breathable fabric, this oversized t-shirt is a blend of comfort and style.",
+        "price": 777.6,
+        "images": [
+            "/Womens/TSHIRT/t3.jpeg",
+            "/Womens/TSHIRT/t3-a.jpeg",
+            "/Womens/TSHIRT/t3-b.jpeg"
+        ],
+        "stock": 116,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "Super comfy and stylish, my go-to t-shirt now.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A little too oversized for my liking, but still good.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Material is soft and doesn't shrink after washing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect fit for a relaxed day out.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I wish it came in more colors. Great product overall!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "35%"
+    },
+    {
+        "id": 4,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Oversized leotude print blue tshirt for women",
+        "description": "A versatile  t-shirt, great for pairing with jeans  for a casual look.",
+        "price": 489.6,
+        "images": [
+            "/Womens/TSHIRT/t4.jpeg",
+            "/Womens/TSHIRT/t4-a.jpeg"
+        ],
+        "stock": 28,
+        "rating": 1.5,
+        "reviews": [
+            {
+                "review": "Amazing fit and feels luxurious to wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Not quite what I expected, but it's growing on me.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric quality exceeded my expectations.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect length for an oversized t-shirt. Love it!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great purchase. I’ve already ordered another one!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "75%"
+    },
+    {
+        "id": 5,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Striped full sleeve tshirt for women",
+        "description": "Add a modern touch to your wardrobe with this oversized t-shirt, perfect for any season.",
+        "price": 460.8,
+        "images": [
+            "/Womens/TSHIRT/t5.jpeg",
+            "/Womens/TSHIRT/t5-a.jpeg",
+            "/Womens/TSHIRT/t5-b.jpeg"
+        ],
+        "stock": 116,
+        "rating": 3.5,
+        "reviews": [
+            {
+                "review": "Fits perfectly and feels super soft.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The color faded slightly after the first wash.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Oversized fit is exactly what I wanted. Highly recommend!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching could be better, but still worth the price.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Lightweight and perfect for summer evenings.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 6,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "white oversized tshirt for women",
+        "description": "A versatile oversized t-shirt, great for pairing with jeans or leggings for a casual look.",
+        "price": 907.2,
+        "images": [
+            "/Womens/TSHIRT/t6.jpeg",
+            "/Womens/TSHIRT/t6-a.jpeg"
+        ],
+        "stock": 50,
+        "rating": 2.8,
+        "reviews": [
+            {
+                "review": "The quality of this t-shirt is unmatched.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Soft fabric that doesn’t cling to the skin. Perfect!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is a little loose for my liking, but still comfy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great value for money, and the delivery was fast.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels premium and looks trendy. Highly satisfied!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 7,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Printed unique tshirt for women",
+        "description": "Relax in style with this oversized t-shirt, made for comfort and effortless fashion.",
+        "price": 388.8,
+        "images": [
+            "/Womens/TSHIRT/t7.jpeg",
+            "/Womens/TSHIRT/t7-a.jpeg",
+            "/Womens/TSHIRT/t7-b.jpeg"
+        ],
+        "stock": 250,
+        "rating": 5,
+        "reviews":[
+            {
+                "review": "The oversized style is trendy and comfortable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric quality is average but works for casual wear.",
+                "author": "Unknown"
+            },
+            {
+                "review": "This quickly became my favorite t-shirt. Love the fit!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Could have been a bit softer, but still good value for money.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 8,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Mickey mouse Printed tshirt womens ",
+        "description": "This oversized t-shirt offers a stylish look, perfect for any casual or semi-formal outing.",
+        "price": 496.8,
+        "images": [
+            "/Womens/TSHIRT/t8.jpeg",
+            "/Womens/TSHIRT/t8-a.jpeg"
+        ],
+        "stock": 116,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "Great for layering with jackets or cardigans.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The length is just right, even for petite sizes.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Color doesn’t bleed after washing. Thumbs up!",
+                "author": "Unknown"
+            },
+            {
+                "review": "It's so comfy, I bought a second one in another color.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is a bit wider than expected, but overall great.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 9,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Brooklyn oversized tshirt for women",
+        "description": "Soft and lightweight, this oversized t-shirt is ideal for those who love relaxed fits.",
+        "price": 777.6,
+        "images": [
+            "/Womens/TSHIRT/t9.jpeg",
+            "/Womens/TSHIRT/t9-a.jpeg"
+        ],
+        "stock": 28,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "The t-shirt is airy and keeps you cool during summers.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The oversized design gives it a cool streetwear vibe.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Good for casual outings, but not for formal settings.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Would love it in more patterns and prints!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 10,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Cotton tshirt for women",
+        "description": "Elevate your everyday wardrobe with this trendy oversized t-shirt, crafted for all-day wear.",
+        "price": 432.0,
+        "images": [
+            "/Womens/TSHIRT/t10.jpeg",
+            "/Womens/TSHIRT/t10-a.jpeg"
+        ],
+        "stock": 116,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "Really soft material, feels great against the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching was a bit off, but it’s not noticeable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect for pairing with biker shorts or jeans.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I love the boxy fit; very trendy!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Could have been thicker, but it’s still a great buy.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 11,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Full sleeve tshirt for women",
+        "description": "A contemporary oversized t-shirt designed for women who love minimalist fashion.",
+        "price": 288.0,
+        "images": [
+            "/Womens/TSHIRT/t11.jpeg",
+            "/Womens/TSHIRT/t11-a.jpeg"
+        ],
+        "stock": 20,
+        "rating": 1.5,
+        "reviews": [
+            {
+                "review": "My favorite oversized t-shirt! It's super versatile.",
+                "author": "Unknown"
+            },
+            {
+                "review": "It looks better in person than in the pictures!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The sleeve length is just perfect for an oversized vibe.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric doesn’t feel cheap, which is great.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 12,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Drew oversized tshirt for women",
+        "description": "Stay cool and comfortable in this oversized t-shirt, perfect for warm-weather days.",
+        "price": 633.6,
+        "images": [
+            "/Womens/TSHIRT/t12.jpeg",
+            "/Womens/TSHIRT/t12-a.jpeg"
+        ],
+        "stock": 250,
+        "rating": 5,
+        "reviews":[
+            {
+                "review": "Absolutely love the oversized fit. Perfect for lounging!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric is soft, but it feels slightly thin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Pairs well with leggings for a casual day out.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The print design is unique and stylish.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great value for money. Will buy again in another color!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 13,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Cotton  tshirt for women",
+        "description": "This oversized t-shirt is a must-have for its stylish look and all-day comfort.",
+        "price": 720.0,
+        "images": [
+            "/Womens/TSHIRT/t13.jpeg",
+            "/Womens/TSHIRT/t13-a.jpeg"
+        ],
+        "stock": 20,
+        "rating": 3.5,
+        "reviews": [
+            {
+                "review": "This t-shirt is lightweight and perfect for hot days.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Oversized but still flattering, a great buy!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Looks great tucked into high-waisted jeans.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A little baggy around the sleeves but still looks good.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The color is beautiful and doesn't fade after washes.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 14,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Black Vibes oversized tshirt for women",
+        "description": "Combining fashion and comfort, this oversized t-shirt is perfect for any casual outing.",
+        "price": 576.0,
+        "images": [
+            "/Womens/TSHIRT/t14.jpeg",
+            "/Womens/TSHIRT/t14-a.jpeg"
+        ],
+        "stock": 116,
+        "rating": 1.5,
+        "reviews": [
+            {
+                "review": "I love how breathable this t-shirt is!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The oversized style is just what I was looking for.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The quality is okay for the price, but could be better.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The length is perfect for an oversized look.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Soft and cozy, great for layering in winter.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 15,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Black  tshirt for womens",
+        "description": "oversized t-shirt for women who love bold and relaxed fashion.",
+        "price": 633.6,
+        "images": [
+            "/Womens/TSHIRT/t15.jpeg",
+            "/Womens/TSHIRT/t15-a.jpeg"
+        ],
+        "stock": 22,
+        "rating": 2.0,
+        "reviews":[
+            {
+                "review": "A bit long for me, but otherwise fits well.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric feels so luxurious on the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect for pairing with a casual skirt.",
+                "author": "Unknown"
+            },
+            {
+                "review": "A must-have for anyone who loves relaxed fashion!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 16,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Blue oversized tshirt for women",
+        "description": "Experience ultimate comfort with this oversized t-shirt, made from soft, durable fabric.",
+        "price": 799.2,
+        "images": [
+            "/Womens/TSHIRT/t16.jpeg",
+            "/Womens/TSHIRT/t16-a.jpeg"
+        ],
+        "stock": 50,
+        "rating": 2.5,
+        "reviews": [
+            {
+                "review": "A wardrobe essential, I wear it almost every day.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Stylish and comfortable, I couldn't ask for more.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The neckline is a bit lower than expected but still fine.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Bought it as a gift and they absolutely loved it!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 17,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Blue print  tshirt for women",
+        "description": "Step out in style with this oversized t-shirt, a blend of simplicity and elegance.",
+        "price": 460.8,
+        "images": [
+            "/Womens/TSHIRT/t17.jpeg",
+            "/Womens/TSHIRT/t17-a.jpeg"
+        ],
+        "stock": 50,
+        "rating": 2.5,
+        "reviews": [
+            {
+                "review": "Soft fabric and great fit. Feels like a premium product.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The design is simple yet elegant.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Slightly wider sleeves than expected but very comfy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The t-shirt looks exactly like the pictures.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 18,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Full sleeve crop  tshirt for women",
+        "description": "This oversized t-shirt is designed to provide a relaxed and stylish fit for every occasion.",
+        "price": 302.4,
+        "images": [
+            "/Womens/TSHIRT/t18.jpeg",
+            "/Womens/TSHIRT/t18-a.jpeg"
+        ],
+        "stock": 150,
+        "rating": 2.5,
+        "reviews": [
+            {
+                "review": "My favorite go-to t-shirt for casual days.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric wrinkles easily but still looks good.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Oversized fit is perfect, not too loose.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I love how it drapes over my body.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 19,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Worth it creamy tshirt for women",
+        "description": "A wardrobe essential, this oversized t-shirt pairs effortlessly with any bottom wear.",
+        "price": 172.8,
+        "images": [
+            "/Womens/TSHIRT/t19.jpeg",
+            "/Womens/TSHIRT/t19-b.jpeg",
+            "/Womens/TSHIRT/t19-a.jpeg"
+        ],
+        "stock": 20,
+        "rating": 2.5,
+        "reviews": [
+            {
+                "review": "The material is lightweight, great for hot weather.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Oversized fit feels cozy but not too bulky.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect for running errands or lounging at home.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching is durable and holds up well after washes.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 20,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Plain tshirts for women Pack of 2",
+        "description": "Stay trendy and cozy with this oversized t-shirt, your perfect partner for a relaxed look.",
+        "price": 216.0,
+        "images": [
+            "/Womens/TSHIRT/t20.jpeg"
+        ],
+        "stock": 150,
+        "rating": 1.5,
+        "reviews": [
+            {
+                "review": "Love the minimalistic design, very stylish.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is flattering even for an oversized style.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric is soft but slightly see-through.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for layering over a tank top or bralette.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 21,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Beast oversized baseball tshirt for women",
+        "description": "Made with ultra-soft fabric, this oversized t-shirt promises all-day comfort and style.",
+        "price": 763.2,
+        "images": [
+            "/Womens/TSHIRT/t21.jpeg",
+            "/Womens/TSHIRT/t21-a.jpeg"
+        ],
+        "stock": 116,
+        "rating": 1.5,
+        "reviews":[
+            {
+                "review": "The oversized style is perfect for casual outings.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric feels luxurious and smooth on the skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The color looks slightly different in person but still pretty.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great fit, but the sleeves could be a bit shorter.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "75%"
+    },
+    {
+        "id": 22,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Unique black print oversized tshirt for women",
+        "description": "This oversized t-shirt is ideal for creating a casual yet fashionable look.",
+        "price": 259.2,
+        "images": [
+            "/Womens/TSHIRT/t22.jpeg",
+            "/Womens/TSHIRT/t22-a.jpeg"
+        ],
+        "stock": 227,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "review": "Pairs beautifully with jeans or shorts.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The oversized fit is stylish without being too baggy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Fabric feels breathable and perfect for summer.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Would love to see this in more patterns and colors.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 23,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Printed black  oversized tshirt for women",
+        "description": "Elevate your loungewear collection with this oversized t-shirt, crafted for ultimate relaxation.",
+        "price": 1152.0,
+        "images": [
+            "/Womens/TSHIRT/t23.jpeg",
+            "/Womens/TSHIRT/t23-a.jpeg",
+            "/Womens/TSHIRT/t23-b.jpeg"
+        ],
+        "stock": 150,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "The neckline is a little wide, but still looks good.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Feels super soft and doesn’t irritate my skin.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Perfect oversized look, love the length!",
+                "author": "Unknown"
+            },
+            {
+                "review": "Washes well without losing its shape.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "75%"
+    },
+    {
+        "id": 24,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "oversized tshirt for women Edition 24",
+        "description": " Perfect for casual outings or special occasions, it ensures comfort and style in one package.",
+        "price": 1008.0,
+        "images": [
+            "/Womens/TSHIRT/t24.jpeg",
+            "/Womens/TSHIRT/t24-a.jpeg"
+        ],
+        "stock": 60,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "This t-shirt is perfect for lazy days at home.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is flattering for all body types.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I’m obsessed with how comfy this is!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The quality is great for the price.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 25,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "A bold oversized t-shirt for women who love to make a statement with their attire.",
+        "description": "Discover the charm of this tshirts! Perfect for casual outings or special occasions, it ensures comfort and style in one package.",
+        "price": 1281.6,
+        "images": [
+            "/Womens/TSHIRT/t25.jpeg",
+            "/Womens/TSHIRT/t25-a.jpeg",
+            "/Womens/TSHIRT/t25-b.jpeg"
+        ],
+        "stock": 116,
+        "rating": 5,
+        "reviews":[
+            {
+                "review": "Oversized but doesn’t feel too boxy, which I love.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for layering over activewear after a workout.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric feels lightweight but durable.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit was exactly what I was looking for!",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 26,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "oversized crop tshirt for women",
+        "description": "Stay stylish and comfortable with this oversized t-shirt, crafted for everyday elegance.",
+        "price": 979.2,
+        "images": [
+            "/Womens/TSHIRT/t26.jpeg",
+            "/Womens/TSHIRT/t26-a.jpeg"
+        ],
+        "stock": 150,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "This t-shirt has become my favorite in no time!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The oversized style is super trendy right now.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Looks great with a denim jacket or alone.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fabric feels soft but not flimsy.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 27,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Orange bold  oversized tshirt for women",
+        "description": "A timeless oversized t-shirt that never goes out of style, perfect for every season.",
+        "price": 777.6,
+        "images": [
+            "/Womens/TSHIRT/t27.jpeg",
+            "/Womens/TSHIRT/t27-a.jpeg",
+            "/Womens/TSHIRT/t27-b.jpeg"
+        ],
+        "stock": 39,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "It’s oversized but doesn’t drown me, which is great.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The colors are vibrant and don’t fade after washing.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Great for casual outings or a relaxed office look.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is comfortable without looking sloppy.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "75%"
+    },
+    {
+        "id": 28,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "White & Black tshirt Pack of 2",
+        "description": "This oversized t-shirt offers a relaxed fit and a modern aesthetic for casual wear.",
+        "price": 532.8,
+        "images": [
+            "/Womens/TSHIRT/t28.jpeg",
+            "/Womens/TSHIRT/t28-a.jpeg"
+        ],
+        "stock": 20,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "The oversized fit makes it perfect for a cozy day.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The quality is nice, but it wrinkles easily.",
+                "author": "Unknown"
+            },
+            {
+                "review": "I love how versatile this t-shirt is!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The sleeves are longer than expected but still cute.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "85%"
+    },
+    {
+        "id": 29,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Crop tshirt Pink for women",
+        "description": "t-shirt combines functionality with an effortlessly cool design.",
+        "price": 806.4,
+        "images": [
+            "/Womens/TSHIRT/t29.jpeg",
+            "/Womens/TSHIRT/t29-a.jpeg"
+        ],
+        "stock": 400,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "Amazing fit and beautiful design for this tshirts.",
+                "author": "User A"
+            },
+            {
+                "review": "Feels soft on the skin, perfect for all-day wear.",
+                "author": "User B"
+            },
+            {
+                "review": "The fit was perfect, and I got lots of compliments!",
+                "author": "User E"
+            },
+            {
+                "review": "Not what I expected, but still worth keeping for its uniqueness.",
+                "author": "User F"
+            }
+        ],
+        "discount": "65%"
+    },
+    {
+        "id": 30,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "Hearts crop tshirt for women",
+        "description": "Discover the charm of this tshirt Perfectly designed for modern, minimalist style.",
+        "price": 864.0,
+        "images": [
+            "/Womens/TSHIRT/t30.jpeg"
+        ],
+        "stock": 20,
+        "rating": 5,
+        "reviews": [
+            {
+                "review": "This t-shirt exceeded my expectations!",
+                "author": "Unknown"
+            },
+            {
+                "review": "The fit is relaxed without looking baggy.",
+                "author": "Unknown"
+            },
+            {
+                "review": "Goes perfectly with high-waisted pants.",
+                "author": "Unknown"
+            },
+            {
+                "review": "The stitching is top-notch, no loose threads.",
+                "author": "Unknown"
+            }
+        ],
+        "discount": "55%"
+    },
+    {
+        "id": 31,
+        "category": "womens clothing",
+        "subcategory": "tshirts",
+        "name": "oversized tshirt for women (Brown color)",
+        "description": "Perfectly oversized, this t-shirt is an everyday essential for women on the go.",
+        "price": 504.0,
+        "images": [
+            "/Womens/TSHIRT/t31.jpeg",
+            "/Womens/TSHIRT/t31-a.jpeg"
+        ],
+        "stock": 20,
+        "rating": 5,
+        "reviews": [
+            
+            {
+                "review": "The oversized fit is perfect for my taste.",
+                "author": "User C"
+            },
+            {
+                "review": "Good quality but the color faded a bit after washing.",
+                "author": "User D"
+            },
+            {
+                "review": "TThe fabric feels like high-quality material.",
+                "author": "User E"
+            },
+            {
+                "review": "The length is just right for wearing with leggings..",
+                "author": "User F"
+            }
+        ],
+        "discount": "85%"
+    }
+]
